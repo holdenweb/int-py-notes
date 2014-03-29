@@ -1,0 +1,133 @@
+#
+# This is the configuration file for automating the production of
+# an Intermediate Python video series of approximately 6 hours duration
+#
+# Note that starred items are intended to be of shorter duration
+#
+# The first section introduces the learningenvironment and whets
+# the student's appetite for what is to come.
+#
+Welcome to Class
+    Bits of Python History *
+    Introducing the IPython Notebook
+    Accessing IPython Notebook on the Cloud
+    Downloading your IPython notebooks
+    IDEs and Productivity Tools *
+#
+# This is followed by a discussion of how Python creates and
+# uses namespaces, and the relationships between namespaces.
+#
+The Python Environment
+    Namespaces in Python
+    Config Files
+    Visual Python *
+    xkcd import antigravity *
+#
+# We now cover some important data types that couldn't be
+# covered in the introductory class.
+#
+More Python Data Types
+    Tuples
+    Dicts and Sets
+    Slicing
+    Advanced Slicing
+    Regular Expressions
+#
+# This section advances the student's understanding of
+# Python's objects and how they interact with the interpreter
+#
+Interacting with the Interpreter 
+    It's not the Snake *
+    Responding to Python Operators
+    Callable Instances
+    The Python Iteration Protocol
+    Iterables vs. Iterators
+    Generator Functions
+    Writing Iterable Objects
+    Context Managers
+#
+# Here we introduce some more advanced concepts that will
+# help students to write more concise, efficient code.
+#
+Comprehensions and Generator Expressions
+    List Comprehensions
+    Set Comprehensions
+    Dict Comprehensions
+    Generator Expressions
+#
+# To be able to build larger programs it's essential to
+# know  how to split them up into pieces.
+#
+Importing Modules
+    What Happens When the Interpreter Starts
+    How import Works
+    import ... as ...
+    from ... import 
+    Structuring Packages
+    Relative Imports
+    Reloading Modules
+#
+# This section enhances the student's understanding of
+# how to write functions.
+#
+More About Functions
+    The Function API - Signatures and Specifications
+    Functions and classes as Function Arguments
+    Generality of Function Return Values
+    Introducing Decorators
+#
+# Everyone needs persistent data, and this section
+# looks at some of the techniques you can use.
+#
+Storing, Retrieving and Handling Data
+    Reading and Writing Files
+    Handling Filenames
+    Elementary SQL
+    The Python DBAPI
+    ORM Principles and Sample Code
+    Struct Module - Handling Binary Data
+#
+# This section explains how to get on the 'net with Python
+#
+Simple Networking
+    The Requests Library
+    Using JSON Data
+    Web Frameworks *
+#
+# Here we explain it in detail and establish basic principle.
+#
+What is Unicode?
+    Bytearrays and Bytestrings
+    Decoding to Unicode
+    Encoding from Unicode
+#
+# This section helps scientists, technicians and accountants
+#
+Python for Scientific and Financiap Applications
+    Numpy
+    SciPy
+    Pandas
+    matplotlib
+    Decimal
+    Data Analysis Modules *
+    Natural Language Analysis *
+#
+# We give students some insight into building
+# reliable software that others can readily understand
+#
+Testing Your Code
+    Unit Testing
+    Mock Objects
+    PEP 8 Python Style
+    Names to Avoid, and Why
+    A Look at Internal CPython Interpreter Code *
+#
+# Even the most wonderful things must end.
+# This last section wraps the whole course up.
+#
+Goodbye!
+    How These Lessons Were Created *
+    The Python Software Foundation *
+    EuroPython *
+    PyCons *
+    import this *
