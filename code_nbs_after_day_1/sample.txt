@@ -1,3 +1,0 @@
-This is a sample data file
-It has precisely three lines
-Of which this is the last
