@@ -1,6 +1,6 @@
 Cython==0.20.1
 Flask==1.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 Kivy==1.8.0
 Kivy-Garden==0.1.1
 MarkupSafe==0.18
